@@ -10,3 +10,4 @@ Develope a central server for real-time audio exchange.
 Create user-friendly client applications for capturing and transmitting audio.
 Implement efficient filtering logic for content control.
 Ensure secure, low-latency, and high-quality communication.
+thanks
